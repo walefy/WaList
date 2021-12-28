@@ -11,3 +11,13 @@ web-build/
 
 # macOS
 .DS_Store
+
+# vscode
+.vscode/
+
+# expo
+.expo/
+.expo-shared/
+
+# gitinore
+.gitinore
