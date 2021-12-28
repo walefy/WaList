@@ -1,5 +1,4 @@
 node_modules/
-./src/screens/Ads/
 .expo/
 npm-debug.*
 *.jks
